@@ -1,0 +1,38 @@
+*{
+    margin: none;
+    padding:0;
+}
+body{
+    background-image:url('wallpaper3.jpg');
+    background-size: cover;
+    height: 100%;
+    width: auto;
+}
+h1{
+    color:black;
+    padding-right: 80px;
+    padding-top: 50px;
+    font-size: 40px;
+    text-align: right;
+}
+p{
+    color: black;
+    font-size: 30px;
+    padding-left: 600px;
+}
+.container{
+    width:750px;
+    padding-left:500px;
+    color:white;
+    font-size:large;
+    font-style:normal;
+}
+section{
+    color: white;
+    padding-top: 180px;
+    padding-right: 500px;
+    height: 140vh;
+}
+span{
+    color: black;
+}
